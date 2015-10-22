@@ -1,0 +1,14 @@
+body {
+    padding-top : 70px;
+
+}
+
+.page-content {
+    padding : 10px;
+    text-align : center;
+}
+
+.img {
+    float : left;
+    margin-right : 10px;
+}
